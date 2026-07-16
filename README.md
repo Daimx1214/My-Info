@@ -1,4 +1,4 @@
-# 🚀 React Router Practice Project
+# 🚀React Router Practice Project
 
 A beginner-friendly React project built to learn and practice **React Router DOM** concepts. This project demonstrates how routing works in a Single Page Application (SPA) using modern React.
 
