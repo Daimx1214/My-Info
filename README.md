@@ -15,7 +15,7 @@ A beginner-friendly React project built to learn and practice **React Router DOM
 - 📂 Nested Routing with `Outlet`
 - ⚡ Dynamic Routing using `useParams`
 - 📡 Route Loaders with `loader`
-- 🚀 Single Page Application (SPA) Navigation
+- 🚀 Single Page Application (SPA) Navigationhttps://www.linkedin.com/in/daimx1214/
 - 📱 Responsive UI
 
 ---
@@ -120,7 +120,7 @@ After building this project, I gained hands-on experience with:
 **Daim Ali**
 
 - GitHub: https://github.com/daimx1214
-- LinkedIn: *(https://www.linkedin.com/in/daim-ali-318479380/)*
+- LinkedIn: *(https://www.linkedin.com/in/daimx1214/)*
 
 ---
 
